@@ -1,2 +1,2 @@
-# ANDREI12333-PVP-TEXTUREPACK
-My own texturepack! (1.18 or up)
+# ANDREI12333 PvP texturepack
+My own texturepack!
